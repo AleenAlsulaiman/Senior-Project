@@ -1,5 +1,5 @@
 # Senior-Project
-Emolody – AI-Powered Music & Podcast Recommendation App
+Emolody – AI-Powered Music & Podcast Recommendation App (Still Working on it)
 
 •Developed an AI-driven mobile application that recommends music and podcasts based on user emotions using Flutter for cross-platform compatibility.
 
